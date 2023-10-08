@@ -8,7 +8,7 @@ I bring an abundance of cuteness and charm to the GitHub world. When I'm not nap
 ⭐ Beautiful: I am the most beautiful being in my entire university and possibly from China.<br>
 
 # My Skills
-💻 Programming Languages: I'm fluent in the language love and code but my relationships don't last longer than a week, including purrfect knowledge of Python, JavaScript, and Docker.<br>
+💻 Programming Languages: I'm fluent in the language love and code but my relationships don't last longer than a week, including purrfect knowledge of C#, Python, JavaScript.<br>
 📚 Continuous Learning: I'm always curious and eager to learn new technologies and expand my skillset beacause I dont have opcions if I wanna follow living in China.<br>
 🗣️ Languages: I am a polyglot who can speak Chinese, English and Spanish, but I cannot understand people and their irrational emotionalism.<br>
 
